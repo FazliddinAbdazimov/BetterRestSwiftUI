@@ -1,0 +1,15 @@
+{
+  "MLModelVersionStringKey" : "--",
+  "MLModelDescriptionKey" : "--",
+  "MLModelCreatorDefinedKey" : {
+    "com.apple.coreml.model.preview.type" : "tabularRegressor",
+    "com.apple.createml.training.started" : "2025-04-25T08:38:31Z",
+    "com.apple.createml.version" : "15.4.1",
+    "com.apple.createml.training.finished" : "2025-04-25T08:38:32Z",
+    "com.apple.createml.app.tag" : "151.2",
+    "com.apple.createml.model.created" : "2025-04-25T08:38:32Z",
+    "com.apple.createml.app.version" : "6.2"
+  },
+  "MLModelAuthorKey" : "Hiro",
+  "MLModelLicenseKey" : "--"
+}
